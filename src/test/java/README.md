@@ -22,5 +22,5 @@ login test cases with specific details.
 
 To open the project use pom.xml file or import it from the GitHub in your IDE
 
-The framework also consists of a folder "trust_wallet" which has Trust Wallet
+The framework also consists of a folder "trust_wallet" (TrustWalletHomework->src->test->trust_wallet) which has Trust Wallet
 Android App test cases for wallet creation and a Test Plan.
